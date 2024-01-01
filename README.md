@@ -1,3 +1,5 @@
+![Maintained by Hassan](https://img.shields.io/badge/maintained%20by-Hassan.com-blue)
+
 # Terraform helm grafana configuration
 
 <p align="center" style="text-align:center;">
